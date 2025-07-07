@@ -21,6 +21,7 @@ This is a task manager app containing functionalities like adding the task, remo
 3. Run `npm start` 
 
 4. Open the url defined in the website
+https://frontend-task-manager-294s.vercel.app/login
 
 ## 🧰 Technologies Used - React.js - React Router
 
